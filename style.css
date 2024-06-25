@@ -1,6 +1,6 @@
 :root {
     --HeaderColor: rgb(95, 76, 61);
-    --BgColor: rgb(255, 225, 0);
+    --BgColor: rgb(255, 222, 89);
 }
 
 html {
@@ -13,15 +13,19 @@ html {
     margin-bottom: auto;
 }
 
-header {background-color: var(--HeaderColor);
-        height: 146px;
-        display: flex;}
+header {
+    background-color: var(--HeaderColor);
+    height: 146px;
+    display: flex;
+}
 
-body {min-height: 100vh;
-      margin: 0px;}
+body {
+    min-height: 100vh;
+    margin: 0px;
+}
 
 .TransparentBG {
     background-color: var(--BgColor);
     min-height: 100vh;
-    opacity: 75%;}
-
+    opacity: 75%;
+}
