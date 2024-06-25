@@ -2,8 +2,14 @@
     --HeaderColor: rgb(95, 76, 61);
 }
 
+.GoFoodName {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
 header {background-color: var(--HeaderColor);
-        height: 146px;}
+        height: 146px;
+        display: flex;}
 
 body {background-image: url(/background.jpg);
       min-height: 100vh;}
