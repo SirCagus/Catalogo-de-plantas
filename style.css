@@ -17,6 +17,7 @@ header {
     background-color: var(--HeaderColor);
     height: 146px;
     display: flex;
+    border-style: solid;
 }
 
 body {
