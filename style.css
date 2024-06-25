@@ -1,5 +1,6 @@
 :root {
     --HeaderColor: rgb(95, 76, 61);
+    --BgColor: rgb(255, 225, 0);
 }
 
 html {
@@ -16,5 +17,11 @@ header {background-color: var(--HeaderColor);
         height: 146px;
         display: flex;}
 
-body {min-height: 100vh;}
+body {min-height: 100vh;
+      margin: 0px;}
+
+.TransparentBG {
+    background-color: var(--BgColor);
+    min-height: 100vh;
+    opacity: 75%;}
 
