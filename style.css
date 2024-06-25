@@ -13,6 +13,10 @@ html {
     margin-bottom: auto;
 }
 
+.LogoGoFood {
+    border-right: solid;
+}
+
 header {
     background-color: var(--HeaderColor);
     height: 146px;
