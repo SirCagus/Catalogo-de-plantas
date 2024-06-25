@@ -2,7 +2,8 @@
     --HeaderColor: (#957661)
 }
 
-header {background-color: var(--HeaderColor);}
+header {background-color: var(--HeaderColor);
+        height: 146px;}
 
 body {background-image: url(/background.jpg);
       min-height: 100vh;}
