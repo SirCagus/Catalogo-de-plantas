@@ -1,5 +1,5 @@
 :root {
-    --HeaderColor: (#957661)
+    --HeaderColor: rgb(95, 76, 61);
 }
 
 header {background-color: var(--HeaderColor);
