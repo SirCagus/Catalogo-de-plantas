@@ -28,7 +28,12 @@ header {
 body {
     min-height: 100vh;
     margin: 0px;
-    background-image: url(/background.jpg);
+}
+
+.TransparentBG {
+    background-color: var(--BgColor);
+    min-height: 100vh;
+    opacity: 75%;
 }
 
 .FotoRestaurante {
