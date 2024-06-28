@@ -38,6 +38,7 @@ body {
 
 .FotoRestaurante {
     opacity: 100%;
+    image-rendering: pixelated;
 }
 
 .SiteFooter {
