@@ -37,6 +37,7 @@ body {
 }
 
 .SiteFooter {
+    border-style: solid;
     height: 40px;
     background-color: var(--HeaderColor);
 }
