@@ -23,6 +23,7 @@ header {
     height: 146px;
     display: flex;
     border-style: solid;
+    border-left: transparent;
 }
 
 body {
