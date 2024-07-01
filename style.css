@@ -46,3 +46,12 @@ body {
     height: 40px;
     background-color: var(--HeaderColor);
 }
+
+.ImagemETexto {
+    display: flex;
+}
+
+.TextoApresentacao {
+    margin-top: auto;
+    margin-bottom: auto;
+}
