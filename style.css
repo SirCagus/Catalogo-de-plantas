@@ -75,4 +75,6 @@ body {
 .Vertical {
     margin: 0;
     position: absolute;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
 }
