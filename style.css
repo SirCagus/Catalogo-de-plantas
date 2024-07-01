@@ -56,3 +56,10 @@ body {
     margin-bottom: auto;
     font-size: 40px;
 }
+
+.botao {
+    height: 80px;
+    margin-left: 25%;
+    margin-right: 75%;
+    width: 50%;
+}
