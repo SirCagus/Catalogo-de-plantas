@@ -58,7 +58,7 @@ body {
 }
 
 .botao {
-    
+    border-radius:35px;
     height: 80px;
     margin-left: 25%;
     margin-right: 75%;
