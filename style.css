@@ -15,6 +15,7 @@ html {
 
 .LogoGoFood {
     border-right: solid;
+    border-radius: 20px;
 }
 
 header {
@@ -34,8 +35,9 @@ body {
     min-height: 100vh;
 }
 
-img {
-
+.FotoRestaurante {
+    padding: 20px;
+    border-radius: 50px;
 }
 
 .SiteFooter {
