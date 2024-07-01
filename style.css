@@ -69,5 +69,10 @@ body {
 }
 
 .Container {
-    
+    position: relative;
+}
+
+.Vertical {
+    margin: 0;
+    position: absolute;
 }
