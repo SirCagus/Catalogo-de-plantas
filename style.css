@@ -20,7 +20,7 @@ html {
 
 header {
     background-color: var(--HeaderColor);
-    height: 146px;
+    height: 140px;
     display: flex;
     border-style: solid;
     border-left: transparent;
@@ -64,6 +64,7 @@ body {
     width: 50%;
     display: block;
     margin: auto;
+    background-color: var(--HeaderColor);
 }
 
 .TextoBotao {
