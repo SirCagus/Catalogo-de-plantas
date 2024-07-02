@@ -7,23 +7,8 @@ html {
     margin: 0px;
 }
 
-.GoFoodName {
-    margin-top: auto;
-    margin-bottom: auto;
-    font-size: 100px;
-}
-
-.LogoGoFood {
-    border-style: solid;
-    border-radius: 20px;
-}
-
 header {
-    background-color: var(--HeaderColor);
-    height: 140px;
-    display: flex;
-    border-style: solid;
-    border-left: transparent;
+ margin: auto;
 }
 
 body {
