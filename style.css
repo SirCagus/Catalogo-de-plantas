@@ -4,7 +4,7 @@
 }
 
 html {
-    background-image: url(/brawl.jpeg)
+   
 }
 
 header {
@@ -14,4 +14,5 @@ header {
 body {
     min-height: 100vh;
     margin: 0px;
+    background-image: url(/brawl.jpeg)
 }
