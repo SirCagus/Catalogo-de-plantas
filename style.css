@@ -35,7 +35,10 @@ body {
 }
 
 .Produto1, .Produto2, .Produto3, .Produto4, .Produto5, .Produto6, .Produto7, .Produto8 {
-    width: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
 }
 
 .images {
