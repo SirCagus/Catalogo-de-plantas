@@ -61,7 +61,7 @@ body {
 
 footer {
     background-color: rgb(94, 140, 199);
-    display: flex;
+    display: block;
     height: 100px;
     text-align: center;
 }
@@ -74,4 +74,8 @@ a {
 h6 {
     margin-top: 100px;
     margin-bottom: 62px;
+}
+
+button {
+    height: 28px;
 }
