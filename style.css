@@ -4,7 +4,8 @@
 }
 
 html {
-    background-image: url(/brawl.jpeg)
+    background-image: url(/BackgroundWebsite.jpeg);
+    background-size: cover;
 }
 
 header {
