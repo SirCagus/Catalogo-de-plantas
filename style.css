@@ -59,3 +59,8 @@ body {
     font-size: 25px;
     text-align: center;
 }
+
+footer {
+    background-color: rgb(94, 140, 199);
+    display: flex;
+}
