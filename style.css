@@ -34,3 +34,6 @@ body {
     display: flex;
 }
 
+.Produto1, .Produto2, .Produto3, .Produto4, .Produto5, .Produto6 {
+    width: 10%;
+}
