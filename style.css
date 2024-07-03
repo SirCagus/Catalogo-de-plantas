@@ -45,3 +45,7 @@ body {
 .Item1, .Item2, .Item3, .Item4, .Item5, .Item6, .Item7, .Item8 {
     border-style: solid;
 }
+
+.texto1, .texto2, .texto3, .texto4, .texto5, .texto6, .texto7, .texto8 {
+    font-size: 25px;
+}
