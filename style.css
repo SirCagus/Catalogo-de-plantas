@@ -29,6 +29,12 @@ body {
     font-size: 50px;
 }
 
+.contato {
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 20px;
+}
+
 .container {
     padding: 40px;
     display: flex;
