@@ -33,6 +33,7 @@ body {
     margin-top: auto;
     margin-bottom: auto;
     font-size: 20px;
+    text-align: center;
 }
 
 .container {
@@ -63,4 +64,5 @@ body {
 footer {
     background-color: rgb(94, 140, 199);
     display: flex;
+    height: 100px;
 }
