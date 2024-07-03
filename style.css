@@ -1,5 +1,5 @@
 :root {
-    --HeaderColor: rgb(252, 124, 1);
+    --MainColor: rgb(94, 140, 199);
     --BgColor: rgb(4,43,69);
 }
 
@@ -9,7 +9,7 @@ html {
 }
 
 header {
-    background-color: rgb(94, 140, 199);
+    background-color:var(--MainColor);
     display: flex;
 }
 
@@ -60,7 +60,7 @@ body {
 }
 
 footer {
-    background-color: rgb(94, 140, 199);
+    background-color: var(--MainColor);
     display: block;
     height: 100px;
     text-align: center;
@@ -78,4 +78,5 @@ h6 {
 
 button {
     height: 28px;
+    background-color: var(--MainColor);
 }
