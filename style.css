@@ -36,4 +36,9 @@ body {
 
 .Produto1, .Produto2, .Produto3, .Produto4, .Produto5, .Produto6 {
     width: 10%;
+    padding: 10px;
+}
+
+.images {
+    width: 100%;
 }
